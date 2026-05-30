@@ -1,0 +1,14 @@
+C:\Users\USER\C# Crash Course\CrashCourse\bin\Debug\net10.0\CrashCourse.exe
+C:\Users\USER\C# Crash Course\CrashCourse\bin\Debug\net10.0\CrashCourse.deps.json
+C:\Users\USER\C# Crash Course\CrashCourse\bin\Debug\net10.0\CrashCourse.runtimeconfig.json
+C:\Users\USER\C# Crash Course\CrashCourse\bin\Debug\net10.0\CrashCourse.dll
+C:\Users\USER\C# Crash Course\CrashCourse\bin\Debug\net10.0\CrashCourse.pdb
+C:\Users\USER\C# Crash Course\CrashCourse\obj\Debug\net10.0\CrashCourse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\C# Crash Course\CrashCourse\obj\Debug\net10.0\CrashCourse.AssemblyInfoInputs.cache
+C:\Users\USER\C# Crash Course\CrashCourse\obj\Debug\net10.0\CrashCourse.AssemblyInfo.cs
+C:\Users\USER\C# Crash Course\CrashCourse\obj\Debug\net10.0\CrashCourse.csproj.CoreCompileInputs.cache
+C:\Users\USER\C# Crash Course\CrashCourse\obj\Debug\net10.0\CrashCourse.dll
+C:\Users\USER\C# Crash Course\CrashCourse\obj\Debug\net10.0\refint\CrashCourse.dll
+C:\Users\USER\C# Crash Course\CrashCourse\obj\Debug\net10.0\CrashCourse.pdb
+C:\Users\USER\C# Crash Course\CrashCourse\obj\Debug\net10.0\CrashCourse.genruntimeconfig.cache
+C:\Users\USER\C# Crash Course\CrashCourse\obj\Debug\net10.0\ref\CrashCourse.dll
