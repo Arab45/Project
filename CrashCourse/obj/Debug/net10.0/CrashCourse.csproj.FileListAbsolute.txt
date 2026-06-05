@@ -12,3 +12,4 @@ C:\Users\USER\C# Crash Course\CrashCourse\obj\Debug\net10.0\refint\CrashCourse.d
 C:\Users\USER\C# Crash Course\CrashCourse\obj\Debug\net10.0\CrashCourse.pdb
 C:\Users\USER\C# Crash Course\CrashCourse\obj\Debug\net10.0\CrashCourse.genruntimeconfig.cache
 C:\Users\USER\C# Crash Course\CrashCourse\obj\Debug\net10.0\ref\CrashCourse.dll
+C:\Users\USER\C# Crash Course\CrashCourse\obj\Debug\net10.0\CrashCourse.sourcelink.json
